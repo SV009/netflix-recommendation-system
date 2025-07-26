@@ -56,8 +56,7 @@ With 8,800+ titles on Netflix, users often face decision fatigue. This system he
 
 📎 Reports
 
-- 📄 [Milestone 1]
-- 📄 [Milestone 2]
+
 - 📄 [Final Report]
 - 📊 [Presentation Slides]
 
